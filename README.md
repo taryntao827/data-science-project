@@ -25,9 +25,9 @@ To reproduce this analysis locally, follow these steps:
    git clone https://github.com/taryntao827/data-science-project.git
    cd data-science-project
 2. Install the required Python packages:
-   bash
+   ```bash
    pip install -r requirements.txt
 3. Launch Jupyter Notebook:
-   bash
+   ```bash
    jupyter notebook
 4. Open the analysis notebook (e.g., analysis.ipynb) and run all cells.
