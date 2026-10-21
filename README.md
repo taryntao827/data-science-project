@@ -31,3 +31,9 @@ To reproduce this analysis locally, follow these steps:
    ```bash
    jupyter notebook
 4. Open the analysis notebook (e.g., analysis.ipynb) and run all cells.
+
+## 6. Visualizations
+
+![Historical Immigration](pie_chart_1980_2013.png) 
+![Immigration in 2013](pie_chart_2013.png)
+
